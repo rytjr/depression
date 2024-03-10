@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="reminders_notification_channel_id">channel1</string>
+    <string name="reminders_notification_channel_name">channel2</string>
+    <string name="title_notification_reminder">든든이</string>
+    <string name="description_notification_reminder">hi</string>
+</resources>
